@@ -6,7 +6,7 @@ const questions = [
       "Bakery food near me • ",
       "Beverages food near me • ",
       "Bihari food near me • ",
-      "Biryani food near me • ",
+      "Biryani foods near me • ",
       "Burger food near me • ",
       "Chinese food near me • ",
       "Desserts food near me • ",
